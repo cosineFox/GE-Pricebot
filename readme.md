@@ -6,7 +6,7 @@ With the advent of GPT4 and its capabilities I used it to prototype the bot with
 ## Scripting and GPT4
 So now came the time to start prompting for functional coding. I basically asked GPT4 to help me write out a quick script that satisfies the following:
 
-0. Name format is "GOOD $0.0000 (arrow)
+0. Name format is "GOOD $0.0000 (arrow)"
 1. Check for price every 2.5 hours
 2. Change name to price
 3. If price up compared to previous price then put arrow up sign (↗️)
