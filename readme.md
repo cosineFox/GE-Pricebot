@@ -1,4 +1,4 @@
-# The Making of The Token Bot
+# The Making of The Price Bot
 -----------------------------
 ## Planning part
 With the advent of GPT4 and its capabilities I used it to prototype the bot with different APIs like OKX (which didn't work since GOOD isn't actually listed on there) and Coin Market cap. The problem is that APIs aren't free... So I went with CoinGecko, the api was went to me by a friend (god bless his soul lmao).
