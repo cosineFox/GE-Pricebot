@@ -40,7 +40,7 @@ async def on_ready():
         percentage_change = calculate_percentage_change(previous_price, current_price) if previous_price is not None else 0
 
         # Bot username format: $Price (Arrow)
-        new_username = f'${current_price:.2f} {arrow}'
+        new_username = f'${current_price:.4f} {arrow}'
         
         # Bot status format: Watching 2.5hr: Percentage%
         time_frame = "2.5hr"  # Change this to "7d" if you want to display the change over 7 days
